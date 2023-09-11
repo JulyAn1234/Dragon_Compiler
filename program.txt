@@ -1,0 +1,10 @@
+int num1;
+float num2;
+double num3 = num1+num2;
+if num3>=8:
+    print("Numero mayor a 8");
+end
+
+while true:
+    print("Loop infinito");
+end
